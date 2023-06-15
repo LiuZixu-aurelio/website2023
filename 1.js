@@ -17,7 +17,7 @@ var _ = (a,e,t)=>e in a ? L(a, e, {
     return a
 }
 ;
-import {E, l as z, g as n, a as i, C as g, W as p, S as f, P as x, b as k, c as y, V as h, M as u, T, R as j, i as R, G as D, d as P, e as c, A as b, f as O, D as U, h as q, j as H, k as A} from "./vendor.513b68c2.js";
+import {E, l as z, g as n, a as i, C as g, W as p, S as f, P as x, b as k, c as y, V as h, M as u, T, R as j, i as R, G as D, d as P, e as c, A as b, f as O, D as U, h as q, j as H, k as A} from "./assets/vendor.513b68c2.js";
 const B = function() {
     const e = document.createElement("link").relList;
     if (e && e.supports && e.supports("modulepreload"))
