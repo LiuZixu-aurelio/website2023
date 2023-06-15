@@ -199,19 +199,19 @@ class C extends d {
                 delay: .05,
                 duration: 1.6,
                 ease: i.easeInOut,
-                onComplete: ()=>window.location.href = "/index.html"
+                onComplete: ()=>window.location.href = "../1.html"
             })) : (n.to(".preloader__subline", {
                 yPercent: 0,
                 duration: 1.5,
                 ease: i.easeInOut,
-                onComplete: ()=>window.location.href = "/index.html"
+                onComplete: ()=>window.location.href = "../1.html"
             }),
             n.to(".preloader__blackline", {
                 yPercent: 0,
                 delay: .05,
                 duration: 1.6,
                 ease: i.easeInOut,
-                onComplete: ()=>window.location.href = "/index.html"
+                onComplete: ()=>window.location.href = "../1.html"
             }))
         }
         ),
