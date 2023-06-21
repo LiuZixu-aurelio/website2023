@@ -123,22 +123,22 @@ table {
 }
 @font-face {
   font-family: Montreal-book;
-  src: url(/img/PPNeueMontreal-Book.195009d6.woff2) format("woff2"),
-    url(/img/PPNeueMontreal-Book.c5159d92.woff) format("woff"),
-    url(/img/PPNeueMontreal-Book.925ad9c6.ttf) format("truetype");
+  src: url(/assets/PPNeueMontreal-Book.195009d6.woff2) format("woff2"),
+    url(/assets/PPNeueMontreal-Book.c5159d92.woff) format("woff"),
+    url(/assets/PPNeueMontreal-Book.925ad9c6.ttf) format("truetype");
   font-display: swap;
 }
 @font-face {
   font-family: Montreal-medium;
-  src: url(/img/PPNeueMontreal-Medium.54b454c4.woff2) format("woff2"),
-    url(/img/PPNeueMontreal-Medium.19804e9e.woff) format("woff"),
-    url(/img/PPNeueMontreal-Medium.ca6dd238.ttf) format("truetype");
+  src: url(/assets/PPNeueMontreal-Medium.54b454c4.woff2) format("woff2"),
+    url(/assets/PPNeueMontreal-Medium.19804e9e.woff) format("woff"),
+    url(/assets/PPNeueMontreal-Medium.ca6dd238.ttf) format("truetype");
   font-display: swap;
 }
 @font-face {
   font-family: Playfair Display;
-  src: url(/img/playfair_italic.927ece91.woff2) format("woff2"),
-    url(/img/playfair_italic.2741c716.woff) format("woff");
+  src: url(/assets/playfair_italic.927ece91.woff2) format("woff2"),
+    url(/assets/playfair_italic.2741c716.woff) format("woff");
   font-display: swap;
 }
 html {

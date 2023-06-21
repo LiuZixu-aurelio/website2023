@@ -1611,7 +1611,7 @@ class ie {
         color: new A("#9e9e9e"),
         emissive: 0,
       })),
-      this.gltfLoader.load("/img/logo.gltf", (e) => {
+      this.gltfLoader.load("/assets/logo.gltf", (e) => {
         (this.modelGeometry = e.scene.children[0].geometry),
           (this.modelMesh = new u(this.modelGeometry, this.modelMaterial)),
           this.modelMesh.scale.set(500, 500, 500),
